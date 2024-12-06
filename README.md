@@ -4,4 +4,4 @@ The purpose of this project is to solidify my technical skills in data analytics
 
 ## Overview
 
-The objective of this project is to apply programming skills (Python's vast libraries: pandas, matplotlib, seaborn etc.) and data analytics techniques (e.g., Tableau) to collect data and derive actionable insights that can be visualized, all while integrating object-orineted programming and API usage.
+The objective of this project is to apply programming skills (Python's vast libraries: pandas, matplotlib, seaborn etc.) and data analytics techniques (e.g., Tableau) to collect data and derive actionable insights that can be visualized, all while integrating object-orineted programming and API usage for the afore-mentioned purpose.
