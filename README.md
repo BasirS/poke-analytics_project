@@ -41,8 +41,7 @@ To run this project locally, you must have the following installed:
     - An example API Endpoint for Pikachu:
       ```bash
       https://pokeapi.co/api/v2/pokemon/pikachu
-    - For more information on endpoints and data structures, visit the PokeAPI Documentation:  
-<a href="https://pokeapi.co/docs/v2" title="Official PokeAPI Documentation" target="_blank">here</a>.
+    - For more information on endpoints and data structures, visit the PokeAPI Documentation <a href="https://pokeapi.co/docs/v2" title="Official PokeAPI Documentation" target="_blank">here</a>.
 
   - Config File for Other APIs (optional):
     If you use additional APIs for your project which require keys, make             sure to store them in a file named config.py in the following format:
