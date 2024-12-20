@@ -29,3 +29,20 @@ To run this project locally, you must have the following installed:
   - Required Python libraries:
     ```bash
     pip install pandas matplotlib requests
+
+### 2. Clone the Repository
+Clone the repository to your local machine:
+    ```bash
+    git clone <https://github.com/BasirS/poke-analytics_project>
+
+### 3. Set Up API Keys
+  - PokeAPI Access:
+    PokeAPI is freely accessible, and no API key is required. You can directly       make requests to its endpoints to retrieve Pokémon data.
+    - An example API Endpoint for Pikachu:
+      ```bash
+      https://pokeapi.co/api/v2/pokemon/pikachu
+    - For more information on endpoints and data structures, visit the PokeAPI         Documentation ([here](https://pokeapi.co/docs/v2) title="Official PokeAPI        Documentation" target="_blank").
+  - Config File for Other APIs (optional):
+    If you use additional APIs for your project, which require keys, make            sure to store them in a file named config.py in the following format:
+    python
+    OTHER_API_KEY = "your_other_api_key_here"
