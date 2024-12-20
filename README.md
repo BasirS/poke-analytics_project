@@ -1,7 +1,31 @@
-# Pokemon Analytics Project in Python
+# Pokémon Analytics Project in Python
 
-The purpose of this project is to solidify my technical skills in data analytics through the Python programming language, where the overall goal is to learn about the Pokemon games' evolution in popularity through VGChartz. I hope to explore how each of its games and certain common attributes or catchy elements of these pocket monsters have made such a huge impact on the franchise's success to this day through PokeAPI.
+This project explores the evolution of Pokémon games' popularity using Python and integrates data from the VGChartz dataset and PokeAPI. By leveraging programming, analytics techniques, and Object-Oriented Programming (OOP) principles, this project aims to analyze Pokémon games' global sales and uncover the elements contributing to the franchise's enduring success.
 
-## Overview
+## Project Overview
 
-The objective of this project is to apply programming skills (Python's vast libraries: pandas, matplotlib, seaborn etc.) and data analytics techniques (e.g., Tableau) to collect data and derive actionable insights that can be visualized, all while integrating object-orineted programming and API usage for the afore-mentioned purpose.
+The objective of this project is to:
+  1. Analyze the global sales data of Pokémon games using the VGChartz dataset.
+  2. Examine Pokémon-specific traits (e.g., types, abilities) through the PokeAPI    to explore their impact on the games' success.
+  3. Demonstrate skills in Python programming, data visualization, and modular       code design via OOP principles.
+
+The tools and techniques used include:
+  + Python Libraries: pandas, matplotlib, requests
+  + Visualization Platforms: matplotlib, Tableau
+  + Object-Oriented Programming: Encapsulation of functionality into reusable          classes.
+
+## Key Hypotheses
+### Dataset Hypothesis
+The commercial success of Pokémon games is significantly influenced by key attributes like platform availability, regional sales trends, and franchise timelines. Games released during peak franchise moments (e.g., new generation launches) or on widely adopted platforms (like Nintendo DS) outperform others globally.
+
+### API Hypothesis
+The success of Pokémon games is deeply rooted in internal elements like the design of iconic Pokémon (e.g., Pikachu), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
+
+## Getting Started: Setting Up the Project
+### 1. Install Prerequisites
+To run this project locally, you must have the following installed:
+  - Python 3.8 or later
+  - pip (Python package manager)
+  - Required Python libraries:
+    ```bash
+    pip install pandas matplotlib requests
