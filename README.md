@@ -12,7 +12,7 @@ The objective of this project is to:
 The tools and techniques used include:
   + Python Libraries: pandas, matplotlib, requests
   + Visualization Platforms: matplotlib, Tableau
-  + Object-Oriented Programming: Encapsulation of functionality into reusable          classes.
+  + Object-Oriented Programming: Encapsulation of functionality into reusable        classes.
 
 ## Key Hypotheses
 ### Dataset Hypothesis
@@ -31,11 +31,9 @@ To run this project locally, you must have the following installed:
     pip install pandas matplotlib requests
 
 ### 2. Clone the Repository
-Clone the repository to your local machine:
 
-      git clone [https://github.com/BasirS/poke-analytics_project](https://github.com/BasirS/poke-analytics_project)
-      
-
+Clone the repository to your local machine using the following command:
+git clone https://github.com/BasirS/poke-analytics_project
 
 ### 3. Set Up API Keys
   - PokeAPI Access:
