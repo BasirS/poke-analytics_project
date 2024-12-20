@@ -28,7 +28,7 @@ To run this project locally, you must have the following installed:
   - pip (Python package manager)
   - Required Python libraries:
     ```bash
-    pip install pandas matplotlib requests
+      pip install pandas matplotlib requests
 
 ### 2. Clone the Repository
 
