@@ -33,7 +33,9 @@ To run this project locally, you must have the following installed:
 ### 2. Clone the Repository
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/BasirS/poke-analytics_project
+    ```bash
+    
+    git clone https://github.com/BasirS/poke-analytics_project
 
 ### 3. Set Up API Keys
   - PokeAPI Access:
