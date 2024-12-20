@@ -32,8 +32,8 @@ To run this project locally, you must have the following installed:
 
 ### 2. Clone the Repository
 Clone the repository to your local machine:
-    ```bash
-    git clone <https://github.com/BasirS/poke-analytics_project>
+      ```bash
+      git clone [https://github.com/BasirS/poke-analytics_project](https://github.com/BasirS/poke-analytics_project)
 
 ### 3. Set Up API Keys
   - PokeAPI Access:
@@ -43,6 +43,28 @@ Clone the repository to your local machine:
       https://pokeapi.co/api/v2/pokemon/pikachu
     - For more information on endpoints and data structures, visit the PokeAPI         Documentation ([here](https://pokeapi.co/docs/v2) title="Official PokeAPI        Documentation" target="_blank").
   - Config File for Other APIs (optional):
-    If you use additional APIs for your project, which require keys, make            sure to store them in a file named config.py in the following format:
-    python
+    If you use additional APIs for your project which require keys, make             sure to store them in a file named config.py in the following format:
+    ```bash
     OTHER_API_KEY = "your_other_api_key_here"
+
+## Data Sources and Connection
+### VGChartz Dataset
+  - Source: The VGChartz dataset provides global sales data for video games,         including Pokémon titles.
+  - Connection: The dataset is the foundation for analyzing Pokémon game sales       and identifying trends across regions and platforms.
+
+### PokeAPI
+  - Purpose: PokeAPI offers comprehensive data on individual Pokémon, including      stats, types, and abilities.
+  - Connection: By combining game sales data with Pokémon-specific attributes        from PokeAPI, we aim to understand how Pokémon design and abilities              contribute to a game’s success. (e.g., iconic Pokémon like Charizard—            Fire/Flying type, popular starter evolution—may attract more players).
+
+## Data Visualizations and Interpretations
+### 1. Global Sales by Pokémon Game
+### 2. Pokémon Traits and Success
+
+## Complications
+
+## Conclusion
+
+## Future Enhancements
+
+## Your Suggestions
+How can I further enhance this analysis? Feel free to contribute or share ideas via GitHub!
