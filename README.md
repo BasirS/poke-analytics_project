@@ -25,7 +25,7 @@ The objective of this project is to:
 The commercial success of Pokémon games is significantly influenced by key attributes like platform availability, regional sales trends, and franchise timelines. Games released during peak franchise moments (e.g., new generation launches) or on widely adopted platforms (like Nintendo DS) outperform others globally.
 
 ### 2. API Hypothesis  
-The success of Pokémon games is deeply rooted in internal elements like the design of iconic Pokémon (e.g., Pikachu), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
+The success of Pokémon games is deeply rooted in internal elements like the design of popular Pokémon (e.g., Bulbasaur), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
 
 ---
 
