@@ -118,7 +118,43 @@ OTHER_API_KEY = "your_other_api_key_here"
 ## Data Visualizations and Interpretations
 
 ### 1. Global Sales by Pokémon Game 
+---
 #### Insight 1: What makes the top-selling Pokémon games so successful?
+
+![Global Sales Distribution (Bar Chart)](resources/1st_output_barplot.png)
+* Our first bar chart highlights global sales data for Pokémon games, with **Pokémon Red/Blue** leading at 31.37 million units sold. Its success is rooted in its innovative gameplay, accessibility on the Game Boy, and the introduction of features like link cable trading, alongside a robust multimedia campaign that established Pokémon as a global phenomenon.
+
+* Following closely, **Pokémon Gold/Silver** sold 23.10 million units, driven by enhancements like day-night cycles, 100 new Pokémon, and two regions to explore, which expanded on the original's appeal. Iterative improvements and innovative mechanics ensured these titles retained and grew their audience.
+
+* Games like **Ruby/Sapphire** and **Diamond/Pearl** reflect the series' adaptability, leveraging new hardware capabilities to introduce features like Pokémon Abilities and online trading, maintaining high engagement. The chart emphasizes the franchise's mastery of blending nostalgia with innovation across generations.
+
+![Top-Selling Pokémon Games' Success (Bar Plot)](resources/2nd_output_barplot.png)
+* Now, the second bar chart showcases the global sales data for the top 10 best-selling Pokémon games. It highlights the enormous popularity of **Pokémon Red/Blue**, leading the list with an impressive **31.37** million units sold, followed by **Pokémon Gold/Silver** at **23.10 million units**. This significant gap indicates how the first-generation games established the foundation for the franchise's enduring success. Factors such as the novelty of the Pokémon concept, the introduction of link cable trading, and the nostalgia associated with these titles may have contributed to their monumental success.
+
+* Other high-ranking entries like **Pokémon Diamond/Pearl** and **Ruby/Sapphire** reflect how iterative improvements, new mechanics, and fresh regions continued to engage audiences over the years. The consistent sales across newer titles suggest that nostalgia, coupled with innovations, plays a critical role in maintaining Pokémon’s dominance in the gaming industry.
+---
+
+#### Insight 2: How do sales trends correlate with the platform used and the release year?
+
+![Global Sales by Platform (Line Plot)](resources/3rd_output_lineplot.png)
+* The line chart analyzes global sales trends across various platforms, illustrating the pivotal role hardware plays in the franchise's success. The **Nintendo DS (DS)** emerges as the most successful platform, generating over **80 million units** in sales, reflecting its broad market penetration and compatibility with multiple Pokémon titles. Similarly, platforms like the **Game Boy (GB)** and **Game Boy Advance (GBA)** sustain the trend of high sales during their respective peaks.
+
+* However, the chart also reveals dips in sales for platforms like the **GameCube (GC)** and **Mobile**, emphasizing the importance of accessible and popular hardware in driving game success. The spike in sales for the **Nintendo Switch (NS)** highlights the impact of modern hybrid gaming experiences, reflecting Pokémon’s ability to adapt and thrive with changing player preferences.
+
+![Yearly Global Sales of Games on All Platforms(Pie Chart)](tableau/slide1_image.png)
+* This Tableau visualization depicts a pie chart that provides an overview of Pokémon game sales across various platforms and release years. From the visualization, it's evident that earlier platforms like the **Game Boy (GB)** and **Game Boy Advance (GBA)** played a foundational role in establishing Pokémon as a blockbuster franchise, with combined sales exceeding **79 million units (79M)** and **49 million units (49M)**, respectively. These platforms represent the franchise's formative years, where games like *Pokémon Red*, *Blue*, and *Emerald* capitalized on the novelty of portable gaming and simple yet immersive mechanics.
+
+* In contrast, newer platforms like the **Nintendo Switch (NS)** and **3DS** reflect Pokémon’s ability to stay relevant by evolving with technology. The Nintendo Switch alone boasts sales of over **25 million units** for Pokémon titles in **2022**, which correlates with its versatility as both a handheld and docked console. Similarly, the 3DS saw sales spikes during its peak years in **2013 (14.35M)** and **2016 (15.17M)**, coinciding with the release of highly anticipated titles like *Pokémon X/Y* and *Pokémon Sun/Moon*.
+
+* The timeline reveals that platform adoption and hardware capabilities heavily influence game sales. For example, the **GameCube** and **Nintendo 64** had lower contributions to Pokémon sales due to their limited portable appeal, compared to handheld-focused devices that align better with the franchise's design philosophy. Additionally, the dominance of mobile platforms in **2019** (with the release of Pokémon GO) shows how Pokémon successfully leveraged emerging trends in casual and mobile gaming to expand its audience.
+
+![Global Sales by Top 5 Nintendo Platforms(Donut Chart)](tableau/slide2_image.png)
+* Following up with the above one is another Tableau visualization, which reinforces the significance of the **Game Boy (GB)** and **DS**, which together account for a significant share of the total **329.6 million (M)** global sales. The **DS (76.7M)**, for example, demonstrates the success of innovative features like dual screens and Wi-Fi connectivity, which were instrumental in the popularity of games like *Pokémon Diamond/Pearl* and *HeartGold/SoulSilver*.
+
+* The transition to the **3DS (66.6M)** showcases a natural progression, with Nintendo capitalizing on backward compatibility and improved hardware, ensuring a seamless shift in player loyalty. Similarly, the **GBA (49M)** served as a pivotal platform for Pokémon's evolution, introducing fan-favorite titles like Ruby/Sapphire while setting the stage for later advancements.
+
+* The **Nintendo Switch (58.3M)** marks a new era of Pokémon games, offering HD visuals and open-world exploration that appeals to both nostalgic fans and newer audiences. This aligns with broader gaming trends, where hybrid consoles appeal to diverse player preferences, from casual to competitive.
+
 
 
 ### 2. Pokémon Traits and Success  
