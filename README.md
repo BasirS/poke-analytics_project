@@ -1,6 +1,6 @@
 # Pokémon Analytics Project in Python
 
-This project explores the evolution of Pokémon games' popularity using Python and integrates data from the VGChartz dataset and PokeAPI. By leveraging programming, analytics techniques, and Object-Oriented Programming (OOP) principles, this project aims to analyze Pokémon games' global sales and uncover the elements contributing to the franchise's enduring success.
+This project explores the evolution of Pokémon games' popularity using Python and integrates data from the VGChartz dataset and PokeAPI. By leveraging programming, analytics techniques, and Object-Oriented Programming (OOP) principles, this project aims to analyze Pokémon games' sales figures across different platforms and explore related data to uncover the franchise's enduring success.
 
 ---
 
@@ -9,23 +9,23 @@ This project explores the evolution of Pokémon games' popularity using Python a
 The objective of this project is to:
 
 1. Analyze the global sales data of Pokémon games using the VGChartz dataset.  
-2. Examine Pokémon-specific traits (e.g., types, abilities) through the PokeAPI to explore their impact on the games' success.  
-3. Demonstrate skills in Python programming, data visualization, and modular code design via OOP principles.
+2. Examine prominent Pokémon-specific base stats through the PokeAPI to explore their impact on the games' success.
+3. Demonstrate skills in Python programming, data visualization techniques, and modular code design via OOP principles.
 
 ### Tools and Techniques Used:
-- **Python Libraries**: `pandas`, `matplotlib`, `requests`  
-- **Visualization Platforms**: `matplotlib`, Tableau  
-- **Object-Oriented Programming**: Encapsulation of functionality into reusable classes  
+- **Python Libraries**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `requests`, `Beautiful Soup`, `python-pptx`, `Pillow` 
+- **Visualization**: Python (matplotlib, seaborn) with integrated images from a Tableau presentation.
+- **Object-Oriented Programming**: Encapsulation of functionality into reusable classes (e.g., PokeAPI).
 
 ---
 
 ## Key Hypotheses
 
 ### 1. Dataset Hypothesis  
-The commercial success of Pokémon games is significantly influenced by key attributes like platform availability, regional sales trends, and franchise timelines. Games released during peak franchise moments (e.g., new generation launches) or on widely adopted platforms (like Nintendo DS) outperform others globally.
+This analysis will quantitatively explore the relationship between global sales of Pokémon games and factors such as platform availability, regional sales trends, and franchise timeline. The idea is to investigate whether games released during periods of heightened franchise interest or on widely adopted platforms exhibit higher global sales.
 
 ### 2. API Hypothesis  
-The success of Pokémon games is deeply rooted in internal elements like the design of popular Pokémon (e.g., Snorlax), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
+This exploration will qualitatively examine how intrinsic Pokémon characteristics might contribute to the appeal and popularity of the games they are featured in. The analysis will consider how Pokémon with pivotal roles in the storyline may influence player engagement and game reception.
 
 ---
 
@@ -35,10 +35,37 @@ The success of Pokémon games is deeply rooted in internal elements like the des
 To run this project locally, you must have the following installed:
 - Python 3.8 or later  
 - pip (Python package manager)  
-- Required Python libraries:  
+
+**Setting up the Virtual Environment (Recommended):**
+
+It's highly recommended to create a virtual environment to isolate your project's dependencies. This prevents conflicts with other Python projects.
+
+1.  **Create a virtual environment:**
+
+    ```bash
+    python3 -m venv .venv  # On Windows, use: py -3 -m venv .venv
+    ```
+
+2.  **Activate the virtual environment:**
+
+    *   **On macOS/Linux:**
+
+        ```bash
+        source .venv/bin/activate
+        ```
+
+    *   **On Windows:**
+
+        ```bash
+        .venv\Scripts\activate
+        ```
+
+**Installing Required Libraries:**
+
+Once the virtual environment is activated, install the required Python libraries using the `requirements.txt` file (which should be included in your repository):
 
 ```bash
-pip install pandas matplotlib requests
+pip install -r requirements.txt
 ```
 
 ### 2. Clone the Repository  
