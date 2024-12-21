@@ -25,7 +25,7 @@ The objective of this project is to:
 The commercial success of Pokémon games is significantly influenced by key attributes like platform availability, regional sales trends, and franchise timelines. Games released during peak franchise moments (e.g., new generation launches) or on widely adopted platforms (like Nintendo DS) outperform others globally.
 
 ### 2. API Hypothesis  
-The success of Pokémon games is deeply rooted in internal elements like the design of popular Pokémon (e.g., Bulbasaur), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
+The success of Pokémon games is deeply rooted in internal elements like the design of popular Pokémon (e.g., Snorlax), their abilities, and type combinations. Pokémon with unique traits or pivotal roles in the storyline significantly boost their games’ appeal and popularity.
 
 ---
 
@@ -53,14 +53,14 @@ git clone https://github.com/BasirS/poke-analytics_project
 #### PokeAPI Access  
 PokeAPI is freely accessible, and no API key is required. You can directly make requests to its endpoints to retrieve Pokémon data.  
 
-- An example API Endpoint for Mew:  
+- An example API Endpoint for Bulbasaur:  
 
 ```bash
-https://pokeapi.co/api/v2/pokemon/snorlax
+https://pokeapi.co/api/v2/pokemon/bulbasaur
 ```
 or
 ```bash
-https://pokeapi.co/api/v2/pokemon/143
+https://pokeapi.co/api/v2/pokemon/1
 ```
 
 - For more information on endpoints and data structures, visit the PokeAPI Documentation <a href="https://pokeapi.co/docs/v2" title="Official PokeAPI Documentation" target="_blank">here</a>.
