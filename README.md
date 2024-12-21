@@ -154,8 +154,7 @@ OTHER_API_KEY = "your_other_api_key_here"
 * The transition to the **3DS (66.6M)** showcases a natural progression, with Nintendo capitalizing on backward compatibility and improved hardware, ensuring a seamless shift in player loyalty. Similarly, the **GBA (49M)** served as a pivotal platform for Pokémon's evolution, introducing fan-favorite titles like Ruby/Sapphire while setting the stage for later advancements.
 
 * The **Nintendo Switch (58.3M)** marks a new era of Pokémon games, offering HD visuals and open-world exploration that appeals to both nostalgic fans and newer audiences. This aligns with broader gaming trends, where hybrid consoles appeal to diverse player preferences, from casual to competitive.
-
-
+---
 
 ### 2. Pokémon Traits and Success  
 Two of the most iconic Pokémon, **Pikachu** and **Charizard**, have played pivotal roles in the franchise's popularity, particularly within the beloved Kanto region. Their distinct designs and in-game characteristics have undoubtedly contributed to their appeal and the success of the games they feature in.
@@ -166,7 +165,9 @@ Two of the most iconic Pokémon, **Pikachu** and **Charizard**, have played pivo
 ![Charizard: The Powerful Flame](resources/gb.jpg)
 <p align="center">Game Boy Charizard - The Most Popular Pokemon</p>
 
+---
 The ***Kanto*** region, featured in the original Pokémon Red, Blue, and Yellow (as well as their remakes), remains one of the most popular and recognizable settings in the Pokémon world. The choice of starter Pokémon in these games—Bulbasaur, Charmander (evolving into Charizard), and Squirtle—is a key early-game decision that significantly influences the player's experience.
+---
 
 ![Pikachu's Stats and Pokemon Yellow's Success)](resources/pikachu_stats.png)
 * The selection of Pikachu as the starter Pokémon in Pokémon Yellow, a special edition released shortly after Red and Blue, further cemented its status as a mascot for the franchise. This game notably followed the anime's storyline, where Ash Ketchum begins his journey with Pikachu. This close tie-in with the anime, a major driver of Pokémon's popularity, likely contributed to Yellow's commercial success. While Pikachu's base stats, as seen in the individual visualization, are generally balanced with a focus on Speed, its unique gameplay mechanics in Yellow, such as following the player on the overworld and having unique interactions, added a new layer of engagement that distinguished it from previous titles.
@@ -179,20 +180,25 @@ The ***Kanto*** region, featured in the original Pokémon Red, Blue, and Yellow 
 ---
 
 ## Complications  
-*TBD*  
+I found myself stuck in the frustrating role of a  "*digital janitor*" spending countless days trying to clean data scraped from VGChartz. After 3–4 grueling days of trial and error, I had to wave the white flag and accept that I couldn’t make the scraped data usable. As a last resort, I turned to an [outdated Kaggle dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) from 2016—yes, a dataset that’s 8 years old! To bring it closer to 2023, I manually updated the dataset using information directly from the VGChartz website and the [Nintendo Financial Report Results](https://www.nintendo.co.jp/ir/en/finance/software/index.html). It was an exhausting and time-consuming process, but that was the only way left for my succeeding in an analysis-if any. Click [here](https://github.com/BasirS/poke-analytics_project/tree/main/vgchartz) if you want to witness how the lack of proper training in data cleaning during my coursework turned me into such a novice when dealing with even a relatively small dataset. This experience made me painfully aware of how much more I need to learn to handle real-world big data challenges effectively.
 
 ---
 
 ## Conclusion  
-*TBD*  
 
----
+* This project set out to explore the factors contributing to the Pokémon franchise's enduring success by analyzing global game sales data and examining key Pokémon characteristics. Through visualizations of sales data from VGChartz (supplemented with data from Kaggle and Nintendo's financial reports) and base stats retrieved from the PokeAPI, several key insights could be recognized.
+
+* The analysis of global sales data revealed clear trends related to platform adoption and release timing. The **Nintendo DS** proved to be a particularly successful platform for Pokémon games, demonstrating the importance of hardware accessibility and innovative features. I also observed that releases coinciding with new generations or major franchise events tended to drive higher sales, highlighting the impact of marketing and franchise momentum.
+
+* Furthermore, our exploration of Pokémon traits, focusing on iconic Pokémon like Pikachu and Charizard, revealed how design and in-game characteristics can contribute to a game's appeal. The choice of starter Pokémon, a crucial early-game decision, plays a significant role in player engagement. Pikachu's unique mechanics in Pokémon Yellow, combined with its status as the franchise mascot, undoubtedly contributed to that game's success. Charizard's powerful stats and striking design, making it a highly desirable Pokémon, likely drove player engagement in Pokémon Red and Blue.
+
+* This project wasn't without its challenges. The initial attempt to scrape data directly from VGChartz proved significantly more difficult than anticipated, requiring a substantial time investment in data cleaning. Ultimately, an older Kaggle dataset, updated with data from VGChartz and Nintendo's financial reports, provided a more viable foundation for analysis. This experience underscored the importance of robust data cleaning skills and gave me a realization of areas for future development. While there are more elements to explore in future projects, such as connecting pokemon traits to game sales more directly, this project provided a valuable glimpse into the factors that have shaped the Pokémon franchise's remarkable success.
 
 ## Future Enhancements  
-*TBD*  
+Through this analysis, I believe I successfully addressed all the key points I initially set out to explore, combining my lifelong passion for Pokémon with the data analysis skills I honed in my Programming for Analytics course. That said, I can’t help but feel there’s so much more I could’ve uncovered. I wish I had the time to dive deeper into connecting the sales data with the vast array of Pokémon traits, making the analysis even more thorough and nuanced. Despite this, I’m proud of the work and research I’ve done here. If time constraints weren’t a factor, I would have absolutely taken it further, creating a more comprehensive connection between Pokémon traits and their lasting success.
 
 ---
 
 ## Your Suggestions  
 
-How can I further enhance this analysis? Feel free to contribute or share ideas via GitHub!
+Any ideas on how I can further enhance this analysis? Feel free to contribute or share ideas via GitHub :)
