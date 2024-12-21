@@ -53,10 +53,14 @@ git clone https://github.com/BasirS/poke-analytics_project
 #### PokeAPI Access  
 PokeAPI is freely accessible, and no API key is required. You can directly make requests to its endpoints to retrieve Pokémon data.  
 
-- An example API Endpoint for Gengar:  
+- An example API Endpoint for Mew:  
 
 ```bash
-https://pokeapi.co/api/v2/pokemon/gengar
+https://pokeapi.co/api/v2/pokemon/snorlax
+```
+or
+```bash
+https://pokeapi.co/api/v2/pokemon/143
 ```
 
 - For more information on endpoints and data structures, visit the PokeAPI Documentation <a href="https://pokeapi.co/docs/v2" title="Official PokeAPI Documentation" target="_blank">here</a>.
