@@ -53,10 +53,10 @@ git clone https://github.com/BasirS/poke-analytics_project
 #### PokeAPI Access  
 PokeAPI is freely accessible, and no API key is required. You can directly make requests to its endpoints to retrieve Pokémon data.  
 
-- An example API Endpoint for Pikachu:  
+- An example API Endpoint for Gengar:  
 
 ```bash
-https://pokeapi.co/api/v2/pokemon/pikachu
+https://pokeapi.co/api/v2/pokemon/gengar
 ```
 
 - For more information on endpoints and data structures, visit the PokeAPI Documentation <a href="https://pokeapi.co/docs/v2" title="Official PokeAPI Documentation" target="_blank">here</a>.
@@ -79,7 +79,7 @@ OTHER_API_KEY = "your_other_api_key_here"
 ### PokeAPI  
 - **Purpose**: PokeAPI offers comprehensive data on individual Pokémon, including stats, types, and abilities.  
 - **Connection**: By combining game sales data with Pokémon-specific attributes from PokeAPI, we aim to understand how Pokémon design and abilities contribute to a game’s success.  
-  *Example*: Iconic Pokémon like Charizard (Fire/Flying type, popular starter evolution) may attract more players.
+  *Example*: Iconic Pokémon like Greninja (Water/Dark type, popular starter evolution and known for its special form known as "Ash-Greninja") attract more players.
 
 ---
 
