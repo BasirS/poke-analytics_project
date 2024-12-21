@@ -102,16 +102,16 @@ OTHER_API_KEY = "your_other_api_key_here"
 
 ---
 
-## Data Sources and Connection
+## Data Sources
 
 ### VGChartz Dataset  
 - **Source**: The VGChartz dataset provides global sales data for video games, including Pokémon titles.  
-- **Connection**: The dataset is the foundation for analyzing Pokémon game sales and identifying trends across regions and platforms.  
+- **Purpose**: This dataset serves as the foundation for analyzing Pokémon game sales and identifying trends across regions and platforms.  
 
 ### PokeAPI  
 - **Purpose**: PokeAPI offers comprehensive data on individual Pokémon, including stats, types, and abilities.  
-- **Connection**: By combining game sales data with Pokémon-specific attributes from PokeAPI, we aim to understand how Pokémon design and abilities contribute to a game’s success.  
-  *Example*: Iconic Pokémon like Greninja (Water/Dark type, popular starter evolution and known for its special form known as "Ash-Greninja") attract more players.
+- **Usage**: In this project, PokeAPI is used to retrieve and visualize the *base stats* of selected Pokémon.
+  *Example*: Starter Pokémon are an important part of the player experience, and their design can be a significant factor in a game's initial appeal.
 
 ---
 
