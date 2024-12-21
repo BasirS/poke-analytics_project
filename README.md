@@ -117,8 +117,9 @@ OTHER_API_KEY = "your_other_api_key_here"
 
 ## Data Visualizations and Interpretations
 
-### 1. Global Sales by Pokémon Game  
-*TBD*  
+### 1. Global Sales by Pokémon Game 
+#### Insight 1: What makes the top-selling Pokémon games so successful?
+
 
 ### 2. Pokémon Traits and Success  
 *TBD*  
