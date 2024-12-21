@@ -85,7 +85,7 @@ PokeAPI is freely accessible, and no API key is required. You can directly make 
 ```bash
 https://pokeapi.co/api/v2/pokemon/bulbasaur
 ```
-<p align="center">or</p>
+<p align="center">OR</p>
 
 ```bash
 https://pokeapi.co/api/v2/pokemon/1
