@@ -31,51 +31,37 @@ This exploration will qualitatively examine how intrinsic Pokémon characteristi
 
 ## Getting Started: Setting Up the Project
 
-### 1. Install Prerequisites  
+### 1. **Install Prerequisites**  
 To run this project locally, you must have the following installed:
 - Python 3.8 or later  
-- pip (Python package manager)  
+- VS Code (with the Python extension installed)
+- Required Python Libraries: These can be installed using `pip` within VS Code's terminal or using the "Python: Select Interpreter" command to select your Python environment and then installing packages via the Python Environments window.
 
-**Setting up the Virtual Environment (Recommended):**
-
-It's highly recommended to create a virtual environment to isolate your project's dependencies. This prevents conflicts with other Python projects.
-
-1.  **Create a virtual environment:**
-
-    ```bash
-    python3 -m venv .venv  # On Windows, use: py -3 -m venv .venv
-    ```
-
-2.  **Activate the virtual environment:**
-
-    *   **On macOS/Linux:**
-
-        ```bash
-        source .venv/bin/activate
-        ```
-
-    *   **On Windows:**
-
-        ```bash
-        .venv\Scripts\activate
-        ```
-
-**Installing Required Libraries:**
-
-Once the virtual environment is activated, install the required Python libraries using the `requirements.txt` file (which should be included in your repository):
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Clone the Repository  
+### 2. **Clone the Repository**  
 Clone the repository to your local machine using the following command:  
 
 ```bash
 git clone https://github.com/BasirS/poke-analytics_project
 ```
 
-### 3. Set Up API Keys
+### 3.  **Open the Project in VS Code:**
+Open the project folder in VS Code.
+
+### 4.  **Create or Select a Python Environment:**
+*   VS Code will usually prompt you to select a Python interpreter. If it doesn't, use the "Python: Select Interpreter" command (Ctrl+Shift+P or Cmd+Shift+P).
+*   VS Code can create a virtual environment for you automatically. If you choose an interpreter that is not already in a virtual environment, VS Code will offer to create one. This is the recommended approach.
+*   If you choose to create a virtual environment yourself, run `python3 -m venv .venv` in the VS Code terminal, and then select that environment as the interpreter.
+
+### 5.  **Install Required Libraries:**
+Open a terminal in VS Code (View > Terminal) and navigate to the project directory, then install the required libraries from the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+```
+
+### 6.  **Run the Jupyter Notebooks:**
+Open the Jupyter Notebooks (`.ipynb` files) in VS Code. You should be able to run the cells directly within the editor.
+
+### 7. Set Up API Keys
 
 #### PokeAPI Access  
 PokeAPI is freely accessible, and no API key is required. You can directly make requests to its endpoints to retrieve Pokémon data.  
@@ -201,7 +187,7 @@ The ***Kanto*** region, featured in the original Pokémon Red, Blue, and Yellow 
 ---
 
 ## Complications  
-I found myself stuck in the frustrating role of a  "*digital janitor*" spending countless days trying to clean data scraped from VGChartz. After 3–4 grueling days of trial and error, I had to wave the white flag and accept that I couldn’t make the scraped data usable. As a last resort, I turned to an [outdated Kaggle dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) from 2016—yes, a dataset that’s 8 years old! To bring it closer to 2023, I manually updated the dataset using information directly from the VGChartz website and the [Nintendo Financial Report Results](https://www.nintendo.co.jp/ir/en/finance/software/index.html). It was an exhausting and time-consuming process, but that was the only way left for my succeeding in an analysis-if any. Click [here](https://github.com/BasirS/poke-analytics_project/tree/main/vgchartz) if you want to witness how the lack of proper training in data cleaning during my coursework turned me into such a novice when dealing with even a relatively small dataset. This experience made me painfully aware of how much more I need to learn to handle real-world big data challenges effectively.
+I found myself stuck in the frustrating role of a  "*digital janitor*" spending countless days trying to clean data scraped from VGChartz. After 3–4 grueling days of trial and error, I had to wave the white flag and accept that I couldn’t make the scraped data usable. As a last resort, I turned to an [outdated Kaggle dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) from 2016—yes, a dataset that’s 8 years old! To bring it closer to 2023, I manually updated the dataset using information directly from the [VGChartz](https://www.vgchartz.com/game/226034/pokemon/?region=All) website and the [Nintendo Financial Report Results](https://www.nintendo.co.jp/ir/en/finance/software/index.html) website. It was an exhausting and time-consuming process, but that was the only way left for me to succeed in an analysis–if any. Click [here](https://github.com/BasirS/poke-analytics_project/tree/main/vgchartz) if you want to witness how the lack of proper training in data cleaning during my coursework turned me into such a novice when dealing with even a relatively small dataset. This experience made me painfully aware of how much more I need to learn to handle real-world big data challenges effectively.
 
 ---
 
