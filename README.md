@@ -156,7 +156,7 @@ Two of the most iconic Pokémon, **Pikachu** and **Charizard**, have played pivo
 <p align="center">Game Boy Charizard - The Most Popular Pokemon</p>
 
 ---
-The ***Kanto*** region, featured in the original Pokémon Red, Blue, and Yellow (as well as their remakes), remains one of the most popular and recognizable settings in the Pokémon world. The choice of starter Pokémon in these games—Bulbasaur, Charmander (evolving into Charizard), and Squirtle—is a key early-game decision that significantly influences the player's experience.
+The ***Kanto*** region, featured in the original Pokémon Red, Blue, and Yellow (as well as their remakes), remains one of the most popular and recognizable settings in the Pokémon world. The choice of starter Pokémon in these games: Bulbasaur, Charmander (evolving into Charizard), or Squirtle, is a key early-game decision that significantly influences the player's experience.
 ---
 
 
