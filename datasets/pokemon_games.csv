@@ -1,0 +1,65 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+5.0,Pokemon Red/Pokemon Blue,GB,1996.0,Role-Playing,Nintendo,11.27,8.89,10.22,1.0,31.37
+13.0,Pokemon Gold/Pokemon Silver,GB,1999.0,Role-Playing,Nintendo,9.0,6.18,7.2,0.71,23.1
+21.0,Pokemon Diamond/Pokemon Pearl,DS,2006.0,Role-Playing,Nintendo,6.42,4.52,6.04,1.37,18.36
+26.0,Pokemon Ruby/Pokemon Sapphire,GBA,2002.0,Role-Playing,Nintendo,6.06,3.9,5.38,0.5,15.85
+27.0,Pokemon Black/Pokemon White,DS,2010.0,Role-Playing,Nintendo,5.57,3.28,5.65,0.82,15.32
+33.0,Pokemon X/Pokemon Y,3DS,2013.0,Role-Playing,Nintendo,5.17,4.05,4.34,0.79,14.35
+46.0,Pokemon HeartGold/Pokemon SoulSilver,DS,2009.0,Action,Nintendo,4.4,2.77,3.96,0.77,11.9
+50.0,Pokemon Omega Ruby/Pokemon Alpha Sapphire,3DS,2014.0,Role-Playing,Nintendo,4.23,3.37,3.08,0.65,11.33
+59.0,Pokemon FireRed/Pokemon LeafGreen,GBA,2004.0,Role-Playing,Nintendo,4.34,2.65,3.15,0.35,10.49
+82.0,Pokemon Black 2/Pokemon White 2,DS,2012.0,Role-Playing,Nintendo,2.91,1.86,3.14,0.43,8.33
+166.0,Pokemon Stadium,N64,1999.0,Strategy,Nintendo,3.18,1.24,0.94,0.09,5.45
+172.0,Pokemon Pinball,GB,1999.0,Misc,Nintendo,3.02,1.12,1.01,0.16,5.31
+210.0,Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness,DS,2007.0,Role-Playing,Nintendo,1.85,1.2,1.54,0.37,4.96
+347.0,Pokemon Snap,N64,1999.0,Simulation,Nintendo,2.23,0.68,0.66,0.06,3.63
+694.0,Pokemon Ranger: Shadows of Almia,DS,2008.0,Role-Playing,Nintendo,0.95,0.54,0.62,0.18,2.3
+752.0,Pokemon Ranger,DS,2006.0,Role-Playing,Nintendo,1.29,0.04,0.73,0.12,2.18
+818.0,Pokemon Mystery Dungeon: Red/Blue Rescue Team,GBA,2005.0,Role-Playing,Nintendo,0.71,0.52,0.74,0.08,2.06
+1141.0,Pokemon Battle Revolution,Wii,2006.0,Role-Playing,Nintendo,0.8,0.38,0.3,0.13,1.61
+1180.0,Pokemon Mystery Dungeon: Explorers of Sky,DS,2009.0,Role-Playing,Nintendo,0.58,0.44,0.44,0.12,1.58
+1194.0,Pokemon Pinball: Ruby & Sapphire,GBA,2003.0,Misc,Nintendo,0.68,0.38,0.44,0.05,1.56
+1483.0,Pokemon Ranger: Guardian Signs,DS,2010.0,Role-Playing,Nintendo,0.51,0.17,0.58,0.06,1.33
+1557.0,Pokemon Mystery Dungeon: Gates to Infinity,3DS,2012.0,Role-Playing,Nintendo,0.44,0.3,0.47,0.06,1.27
+1593.0,Pokemon XD: Gale of Darkness,GC,2005.0,Role-Playing,Nintendo,0.71,0.19,0.31,0.03,1.25
+1704.0,Pokemon Super Mystery Dungeon,3DS,2015.0,Role-Playing,Nintendo,0.46,0.31,0.33,0.08,1.19
+1783.0,Pokemon Rumble Blast,3DS,2011.0,Action,Nintendo,0.47,0.26,0.35,0.07,1.14
+1988.0,Pokemon Conquest,DS,2012.0,Role-Playing,Nintendo,0.58,0.06,0.37,0.04,1.05
+2338.0,Pokemon Card GB2: Here Comes Team GR!,GB,2001.0,Strategy,Nintendo,0.0,0.0,0.89,0.0,0.89
+2683.0,Pokemon Dash,DS,2004.0,Racing,Nintendo,0.21,0.14,0.38,0.04,0.77
+3383.0,Pokemon Trozei!,DS,2005.0,Puzzle,Nintendo,0.26,0.0,0.31,0.02,0.6
+4046.0,Pokemon Art Academy,3DS,2014.0,Misc,Nintendo,0.18,0.12,0.16,0.03,0.49
+4367.0,Pokemon Puzzle League,N64,2000.0,Puzzle,Nintendo,0.36,0.08,0.0,0.01,0.45
+5052.0,Pokemon Channel,GC,2003.0,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+6100.0,Battle & Get! Pokemon Typing DS,DS,2011.0,Misc,Nintendo,0.0,0.0,0.29,0.0,0.29
+6233.0,Pokemon Box: Ruby & Sapphire,GC,2003.0,Misc,Nintendo,0.0,0.0,0.27,0.01,0.28
+10994.0,Pokemon Rumble World,3DS,2015.0,Action,Nintendo,0.0,0.01,0.08,0.0,0.09
+,Pokémon Sword/Shield,NS,2019.0,Role-Playing,Nintendo,6.04,4.35,3.73,1.12,15.24
+,Pokémon Scarlet/Violet,NS,2022.0,Role-Playing,Nintendo,5.92,4.12,3.12,0.95,14.11
+,Pokémon Sun/Moon,3DS,2016.0,Role-Playing,Nintendo,6.02,4.34,3.82,0.99,15.17
+,Pokémon Ultra Sun/Ultra Moon,3DS,2017.0,Role-Playing,Nintendo,2.46,1.74,2.55,0.4,7.15
+,Pokémon Yellow: Special Pikachu Edition,GB,1998.0,Role-Playing,Nintendo,5.89,5.04,3.12,0.59,14.64
+,Pokémon Emerald Version,GBA,2004.0,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,7.06
+,Pokémon Crystal Version,GBC,2000.0,Role-Playing,Nintendo,2.55,1.56,1.29,0.99,6.39
+,Pokémon Platinum Version,DS,2008.0,Role-Playing,Nintendo,2.76,1.73,2.69,0.54,7.72
+,Pokémon Legends: Arceus,NS,2022.0,Action/RPG,Nintendo,4.12,3.01,2.85,0.95,10.93
+,New Pokémon Snap,NS,2021.0,Simulation,Nintendo,1.26,,,,2.4
+,Pokémon Rescue Team DX,NS,2020.0,Role-Playing,Nintendo,1.26,,,,1.26
+,Pokémon Café ReMix,NS/Mobile,2020.0,Puzzle,Nintendo,,,,,
+,Pokémon Unite,NS/Mobile,2021.0,MOBA,Nintendo,,,,,
+,Pokémon Trading Card Game,GB,1998.0,Strategy,Nintendo,1.49,0.73,1.38,0.1,3.7
+,Pokémon Colosseum,GC,2003.0,Role-Playing,Nintendo,1.21,0.57,0.7,0.07,2.54
+,Pokémon Stadium 2,N64,2000.0,Strategy,Nintendo,1.02,0.36,1.13,0.23,2.73
+,Pokémon Puzzle Challenge,GBC,2000.0,Puzzle,Nintendo,,,,,0.45
+,Pokémon Omega Ruby/Alpha Sapphire,3DS,2014.0,Role-Playing,Nintendo,4.78,3.98,3.15,0.82,14.46
+,Pokémon FireRed/LeafGreen,GBA,2004.0,Role-Playing,Nintendo,4.34,2.65,3.15,0.35,12.0
+,Pokémon Ranger series,DS,,Action-Adventure,Nintendo,,,,,
+,"Pokémon Let's Go, Pikachu!/Eevee!",NS,2018.0,Role-Playing,Nintendo,4.17,3.02,2.98,0.16,14.33
+,Pokémon Quest,NS/Mobile,2018.0,Action/Adventure,Nintendo,,,,,
+,Pokémon Masters EX,Mobile,2019.0,Role-Playing,DeNA,,,,,
+,Pokémon Rumble Rush,Mobile,2019.0,Action,Nintendo,,,,,
+,Pokémon Puzzle League,N64,2000.0,Puzzle,Nintendo,0.36,0.08,,0.01,0.45
+,Pokémon Channel,GC,2003.0,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+,Pokémon Legends: Celebi,NS,2023.0,Action/RPG,Nintendo,,,,,
+,Pokémon Mystery Dungeon: New Horizons,NS,2024.0,Role-Playing,Nintendo,,,,,
+,Pokémon Trading Card Game 2: Here Comes Team GR!,GBC,2001.0,Strategy,Nintendo,0.0,0.0,0.89,0.0,0.89
