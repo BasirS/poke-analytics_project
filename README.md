@@ -192,18 +192,24 @@ I found myself stuck in the frustrating role of a  "*digital janitor*" spending 
 
 ## Conclusion  
 
-* This project set out to explore the factors contributing to the Pokémon franchise's enduring success by analyzing global game sales data and examining key Pokémon characteristics. Through visualizations of sales data from VGChartz (supplemented with data from Kaggle and Nintendo's financial reports) and base stats retrieved from the PokeAPI, several key insights could be recognized.
-
-* The analysis of global sales data revealed clear trends related to platform adoption and release timing. The **Nintendo DS** proved to be a particularly successful platform for Pokémon games, demonstrating the importance of hardware accessibility and innovative features. I also observed that releases coinciding with new generations or major franchise events tended to drive higher sales, highlighting the impact of marketing and franchise momentum.
-
-* Furthermore, exploring traits of iconic Pokémon like Pikachu and Charizard revealed how design and in-game characteristics can contribute to a game's appeal. The choice of starter Pokémon, a crucial early-game decision, plays a significant role in player engagement. Pikachu's unique mechanics in Pokémon Yellow, combined with its status as the franchise mascot, undoubtedly contributed to that game's success. Charizard's powerful stats and striking design, making it a highly desirable Pokémon, most likely drove player engagement in Pokémon Red and Blue.
-
-* This project wasn't without its challenges. The initial attempt to scrape data directly from VGChartz proved significantly more difficult than anticipated, requiring a substantial time investment in data cleaning. Ultimately, an older Kaggle dataset, updated with data from VGChartz and Nintendo's financial reports, provided a more viable foundation for analysis. This experience underscored the importance of robust data cleaning skills and gave me a realization of areas for future development. While there are more elements to explore in future projects, such as connecting pokemon traits to game sales more directly, this project provided a valuable glimpse into the factors that have shaped the Pokémon franchise's remarkable success.
+* This project set out to uncover the factors behind Pokémon’s enduring success by analyzing game sales data and Pokémon traits. Through visualizations from VGChartz and insights from the PokeAPI, I identified how platform accessibility, release timing, and franchise momentum influence sales. For instance, the Nintendo DS stood out as a pivotal platform due to its innovative features and wide adoption.
+* Additionally, exploring iconic Pokémon like Pikachu and Charizard highlighted how design and in-game mechanics enhance player engagement. While challenges with data cleaning were significant, they provided valuable lessons for future projects. Overall, this analysis offered a glimpse into the franchise's sustained popularity and areas for deeper exploration.
 
 ---
 
 ## Future Enhancements  
 Through this analysis, I believe I successfully addressed all the key points I initially set out to explore, combining my lifelong passion for Pokémon with the data analysis skills I honed in my Programming for Analytics course. That said, I can’t help but feel there’s so much more I could’ve uncovered. I wish I had the time to dive deeper into connecting the sales data with the vast array of Pokémon traits, making the analysis even more thorough and nuanced. Despite this, I’m proud of the work and research I’ve done here. If time constraints weren’t a factor, I would have absolutely taken it further, creating a more comprehensive connection between Pokémon traits and their lasting success.
+
+---
+
+## Presentation
+
+To share my findings and insights, I created a presentation and a YouTube video walkthrough:
+
+- **[Presentation PDF](https://drive.google.com/file/d/1PXu0p45oNmZ3uzm1kmYvZrdI_8jou4Pd/view?usp=sharing)**  
+- **[Video Walkthrough](https://youtu.be/BTMMpW7Qeok)**  
+
+These resources should provide a quick overview of my project, including the methodology, key insights, and lessons learned.
 
 ---
 
