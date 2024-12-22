@@ -206,7 +206,7 @@ Through this analysis, I believe I successfully addressed all the key points I i
 
 To share my findings and insights, I created a presentation and a YouTube video walkthrough:
 
-- **[Presentation PDF](https://drive.google.com/file/d/1PXu0p45oNmZ3uzm1kmYvZrdI_8jou4Pd/view?usp=sharing)**  
+- **[Presentation PDF](https://drive.google.com/file/d/1Lw_p60TDcSn7aUufD_9b6jBAxyc6wSFu/view?usp=sharing)**  
 - **[Video Walkthrough](https://youtu.be/BTMMpW7Qeok)**  
 
 These resources should provide a quick overview of my project, including the methodology, key insights, and lessons learned.
