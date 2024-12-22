@@ -192,7 +192,7 @@ I found myself stuck in the frustrating role of a  "*digital janitor*" spending 
 
 ## Conclusion  
 
-* This project set out to uncover the factors behind Pokémon’s enduring success by analyzing game sales data and Pokémon traits. Through visualizations from VGChartz and insights from the PokeAPI, I identified how platform accessibility, release timing, and franchise momentum influence sales. For instance, the Nintendo DS stood out as a pivotal platform due to its innovative features and wide adoption.
+* This project set ended up uncovering factors behind Pokémon’s lasting success by analyzing game sales data and Pokémon traits. Through visualizations from VGChartz and insights from the PokeAPI, I identified how platform accessibility, release years, and franchise momentum influence sales. For instance, the Nintendo DS stood out as a pivotal platform (after Game Boy) due to its dual-screen design, touchscreen capabilities, and widespread popularity among players.
 * Additionally, exploring iconic Pokémon like Pikachu and Charizard highlighted how design and in-game mechanics enhance player engagement. While challenges with data cleaning were significant, they provided valuable lessons for future projects. Overall, this analysis offered a glimpse into the franchise's sustained popularity and areas for deeper exploration.
 
 ---
