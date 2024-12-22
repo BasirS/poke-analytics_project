@@ -98,7 +98,7 @@ OTHER_API_KEY = "your_other_api_key_here"
 - **Purpose**: PokeAPI offers comprehensive data on individual Pokémon, including stats, types, and abilities.  
 - **Usage**: In this project, PokeAPI is used to retrieve and visualize the *base stats* of selected Pokémon.
 
-For example, starter Pokémon are an important part of the player experience, and their design can be a significant factor in a game's initial appeal.
+  For example, starter Pokémon are an important part of the player experience, and their design can be a significant factor in a game's initial appeal.
 
 ---
 
@@ -210,7 +210,7 @@ To share my findings and insights, I created a presentation and a YouTube video 
 - **[Presentation PDF](https://drive.google.com/file/d/1Lw_p60TDcSn7aUufD_9b6jBAxyc6wSFu/view?usp=sharing)**  
 - **[Video Walkthrough](https://youtu.be/BTMMpW7Qeok)**  
 
-These resources should provide a quick overview of my project, including the methodology, key insights, and lessons learned.
+These resources quickly summarize my findings on Pokémon's success.
 
 ---
 
