@@ -1,4 +1,4 @@
-# Pokémon Analytics Project in Python
+# Pokémon Analytics Project
 
 This project explores the evolution of Pokémon games' popularity using Python and integrates data from the VGChartz dataset and PokeAPI. By leveraging programming, analytics techniques, and Object-Oriented Programming (OOP) principles, this project aims to analyze Pokémon games' sales figures across different platforms and explore related data to uncover the franchise's enduring success.
 
