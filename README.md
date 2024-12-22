@@ -192,14 +192,14 @@ I found myself stuck in the frustrating role of a  "*digital janitor*" spending 
 
 ## Conclusion  
 
-* Through analysis of game sales data and Pokémon traits, this project identified key drivers of the franchise's success. Sales trends clearly correlate with platform popularity and strategic release timing, often coinciding with new generations or franchise milestones, indicating the importance of marketing and franchise momentum.
+* By analyzing game sales data and Pokémon traits, this project identified key drivers of the franchise's success. Sales trends clearly correlate with platform popularity and strategic release timing, often coinciding with new generations or franchise milestones, indicating the importance of marketing and franchise momentum.
 * Additionally, exploring iconic Pokémon like Pikachu and Charizard highlighted how design and in-game mechanics enhance player engagement. While challenges with data cleaning were significant, they provided valuable lessons for future projects.
 * Overall, this analysis offered a glimpse into the franchise's sustained popularity and areas for deeper exploration.
 
 ---
 
 ## Future Enhancements  
-Through this analysis, I believe I successfully addressed all the key points I initially set out to explore, combining my lifelong passion for Pokémon with the data analysis skills I honed in my Programming for Analytics course. That said, I can’t help but feel there’s so much more I could’ve uncovered. I wish I had the time to dive deeper into connecting the sales data with the vast array of Pokémon traits, making the analysis even more thorough and nuanced. Despite this, I’m proud of the work and research I’ve done here. If time constraints weren’t a factor, I would have absolutely taken it further, creating a more comprehensive connection between Pokémon traits and their lasting success.
+I believe I successfully addressed all the key points I initially set out to explore, combining my lifelong passion for Pokémon with the data analysis skills I honed in my Programming for Analytics course. That said, I can’t help but feel there’s so much more I could’ve uncovered. I wish I had the time to dive deeper into connecting the sales data with the vast array of Pokémon traits, making the analysis even more thorough and nuanced. Despite this, I’m proud of the work and research I’ve done here. If time constraints weren’t a factor, I would have absolutely taken it further, creating a more comprehensive connection between Pokémon traits and their lasting success.
 
 ---
 
