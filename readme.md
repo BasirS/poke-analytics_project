@@ -203,12 +203,9 @@ I believe I successfully addressed all the key points I initially set out to exp
 
 ## Presentation
 
-To share my findings and insights, I created a presentation and a YouTube video walkthrough:
+To share my findings and insights, I created a presentation, which summarizez my findings on Pokémon's success:
 
 - **[Presentation PDF](https://drive.google.com/file/d/1Lw_p60TDcSn7aUufD_9b6jBAxyc6wSFu/view?usp=sharing)**  
-- **[Video Walkthrough](https://youtu.be/BTMMpW7Qeok)**  
-
-These resources quickly summarize my findings on Pokémon's success.
 
 ---
 
